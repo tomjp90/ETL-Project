@@ -1,6 +1,6 @@
 # ETL-Project
 
-This project seeks to enable exploratory data analysis of the relationship (if any) between crimes committed and the profile of the suburb based on types of places, within the Greater Melbourne area. The data explores types of crimes and the average frequency per year and the place types including liquor stores, police stations and parks. (The average is based on the frequency recorded for years ending from 2011 to 2020.)
+This project seeks to enable exploratory data analysis of the relationship (if any) between crimes committed and the profile of the suburb based on types of establishments, within the Greater Melbourne area. The data explores types of crimes and the average frequency per year and the place types including liquor stores, police stations and parks. (The average is based on the frequency recorded for years ending from 2011 to 2020.)
 
 The Extract-Transform-Load (ETL) process was utilised for its effectiveness in collating the raw datasets for analysis (extraction) from various sources, and applying numerous transformations on each dataset in order to be loaded into SQL as a relational database. The transformations “cleaned” the data into a normalised and consistent format to allow for importing into SQL and subsequently allow any user to perform various join analyses applicable to one’s needs.
 
